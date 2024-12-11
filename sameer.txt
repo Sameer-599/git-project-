@@ -1,0 +1,6 @@
+Linux 
+git 
+azure 
+devops 
+k8s 
+terraform 
